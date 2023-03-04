@@ -73,8 +73,11 @@ The below visualizations were generated:
 ## Recommendations (Data Based)
 
 1. Introduce 3 new types of membership:
+
     (i) Weekend membership (Saturdays & Sundays)
+    
     (ii) Summer membership (May-October)
+    
     (iii) Weekend-Summer hybrid membership (Saturdays & Sundays and all of July & August)
 2. Approach the Corporations and local businesses to enroll their employees and offer group discounts, thus increasing membership
 3. Initiate a program to attract riders 16 years and below
@@ -83,4 +86,9 @@ The below visualizations were generated:
 ## Recommendations (General, not necessarily Data Based)
 
 1. Have a business tie up with a bank to finance annual memberships
-2. Develop an App. for only members with bike availability information at each station; bike reservation valid for 30 mins. ; other membership information such as expiry date, number of rides, ride duration, etc. This will enhance membership privileges, attracting the casual rider to become a member
+2. Develop an App for only members with 
+    - bike availability information at each station
+    - bike reservation valid for 30 mins. 
+    - other membership information such as expiry date, number of rides, ride duration, etc. 
+   
+   This will enhance membership privileges, attracting the casual rider to become a member
