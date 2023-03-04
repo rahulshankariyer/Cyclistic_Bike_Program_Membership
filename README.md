@@ -29,21 +29,21 @@ The data chosen for this analysis was for the calendar year 2021.
 
 The below visualizations were generated:
 
-### 1. Casual Rider vs Member Rider - Number of Riders on Each Day of the Week (Y-axis scale: 100,000)
+### 1. Casual Rider vs Member Rider - Number of Riders Each Day of the Week (Y-axis scale: 100,000)
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Number%20of%20Rides%20by%20Member%20and%20Casual%20Riders%20each%20Day%20of%20the%20Week.png)
 
-### 2. Casual Rider vs Member Rider - Ride Duration on Each Day of the Week
+### 2. Casual Rider vs Member Rider - Number of Riders Each Month of the Year
+
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Number%20of%20Riders%20for%20Each%20Month%20of%20the%20Year.png)
+
+### 3. Casual Rider vs Member Rider - Ride Duration Each Day of the Week
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Average%20Ride%20Length.png)
 
-### 3. Casual Rider vs Member Rider - Ride Duration for Each Month of the Year
+### 4. Casual Rider vs Member Rider - Ride Duration Each Month of the Year
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Ride%20Duration%20for%20Each%20Month%20of%20the%20Year.png)
-
-### 4. Casual Rider vs Member Rider - Number of Riders for Each Month of the Year
-
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Number%20of%20Riders%20for%20Each%20Month%20of%20the%20Year.png)
 
 ### 5. Member Riders By Bike Type
 
