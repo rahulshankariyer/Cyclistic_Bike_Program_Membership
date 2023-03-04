@@ -27,7 +27,7 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 The below visualizations were generated:
 
-### 1. Casual Rider vs Member Rider - Number of Riders Each Day of the Week (Y-axis scale: 100,000)
+### 1. Casual Rider vs Member Rider - Number of Riders Each Day of the Week (Y-axis scale: 100,000 per unit)
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Number%20of%20Rides%20by%20Member%20and%20Casual%20Riders%20each%20Day%20of%20the%20Week.png)
 
