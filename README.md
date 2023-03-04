@@ -85,4 +85,4 @@ The below visualizations were generated:
 ## Recommendations (General, not necessarily Data Based)
 
 1. Have a business tie up with a bank to finance annual memberships
-2. Develop an App. for members only with bike availability information at each station; bike reservation valid for 30 mins. ; other membership information such as expiry date, number of rides, ride duration, etc. This will enhance membership privileges, attracting the casual rider to become a member
+2. Develop an App. for only members with bike availability information at each station; bike reservation valid for 30 mins. ; other membership information such as expiry date, number of rides, ride duration, etc. This will enhance membership privileges, attracting the casual rider to become a member
