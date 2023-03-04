@@ -67,7 +67,7 @@ The below visualizations were generated:
 2. The number of casual riders increased during the weekend while the number of member riders decreased during the weekend
 3. The top 6 stations for the member riders are clearly in downtown Chicago while the top 6 stations for the casual riders are closer to the tourist/leisure spots.
 4. The first three findings together indicate that members are generally commuters, while casual riders generally ride for leisure
-5. Number of riders reached its peak during the summer, especially July and August, and tapered off during winter
+5. Number of riders reached its peak during the summer, especially July and August, and tapered off during winter for both member and casual riders
 6. From the data of a previous year (2019), there is a negligible number of members below the age of 16
 7. There is a negligible difference between the preferences of member and casual riders in the bike type category.
 8. In 13% of the rides, the riders neglected to return the bike to any station.
