@@ -2,13 +2,11 @@
 
 ## Scenario
 
-I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The people who utilize the Cyclistic bike-sharing program belong to one of two categories - Member riders who have an annual membership with Cyclistic and Casual riders who buy single day or single ride passes to utilize the service. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the team wants to understand how Casual riders and Members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert casual riders into members. But first, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. They have Member riders, who have an annual membership with Cyclistic and Casual riders, who buy single day or single ride passes to utilize the service. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the team wants to understand how Casual riders and Members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert casual riders into members. But first, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 ## Data Used
 
-<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> This is the Original Bike Trip Data. It contains data of bike rides from the year 2013, the year of Cyclistic's founding, till the most recently concluded month. </a>
-
-The data chosen for this analysis was for the calendar year 2021.
+<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> This is the Original Bike Trip Data. It contains data of bike rides from the year 2013, the year of Cyclistic's founding, till the most recently concluded month. </a>The data chosen for this analysis was for the calendar year 2021.
 
 ## Tools Used
 
