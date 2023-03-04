@@ -39,7 +39,7 @@ The below visualizations were generated:
 
 ### 3. Casual Rider vs Member Rider - Ride Duration Each Day of the Week
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Average%20Ride%20Length.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Average%20Ride%20Duration%20of%20Casual%20%26%20Member%20Riders%20by%20Day%20of%20the%20Week.png)
 
 ### 4. Casual Rider vs Member Rider - Ride Duration Each Month of the Year
 
