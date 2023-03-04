@@ -35,7 +35,7 @@ The below visualizations were generated:
 
 ### 2. Casual Rider vs Member Rider - Number of Riders Each Month of the Year
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Number%20of%20Riders%20for%20Each%20Month%20of%20the%20Year.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Number%20of%20Riders%20for%20Each%20Month%20of%20the%20Year.png)
 
 ### 3. Casual Rider vs Member Rider - Ride Duration Each Day of the Week
 
@@ -43,7 +43,7 @@ The below visualizations were generated:
 
 ### 4. Casual Rider vs Member Rider - Ride Duration Each Month of the Year
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Ride%20Duration%20for%20Each%20Month%20of%20the%20Year.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Ride%20Duration%20for%20Each%20Month%20of%20the%20Year.png)
 
 ### 5. Member Riders By Bike Type
 
