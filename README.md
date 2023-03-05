@@ -47,15 +47,11 @@ The below visualizations were generated:
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Top%206%20Start%20%26%20End%20Stations%20of%20Casual%20%26%20Member%20Riders.png)
 
-### 6. Member Riders By Bike Type
+### 6. Casual & Member Riders By Bike Type
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Member%20Riders%20By%20Bike%20Type.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20%26%20Member%20Riders%20by%20Bike%20Type.png)
 
-### 7. Casual Riders By Bike Type
-
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Riders%20by%20Bike%20Type.png)
-
-### 8. Top 6 Most Popular Stations by Bike Type
+### 7. Top 6 Most Popular Stations by Bike Type
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Top%206%20Most%20Popular%20Stations%20by%20Bike%20Type.png)
 
