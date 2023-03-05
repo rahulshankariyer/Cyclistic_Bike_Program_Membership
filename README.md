@@ -53,7 +53,7 @@ The below visualizations were generated:
 
 ### 7. Top 6 Most Popular Stations by Bike Type
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Top%206%20Most%20Popular%20Stations%20by%20Bike%20Type.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Top%206%20Most%20Popular%20Stations%20by%20Bike%20Type.png)
 
 ## Insights
 
