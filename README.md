@@ -27,33 +27,13 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 The below visualizations were generated:
 
-### 1. Casual Rider vs Member Rider - Number of Riders Each Day of the Week (Y-axis scale: 100,000 per unit)
+### 1. Frequency of Riders and Average Ride Duration by Day of the Week and Month
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Number%20of%20Rides%20by%20Member%20and%20Casual%20Riders%20each%20Day%20of%20the%20Week.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Riders%20Data%20-%20Ride%20Duration%20and%20Number%20of%20Riders.png)
 
 ### 2. Casual Rider vs Member Rider - Number of Riders Each Month of the Year
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Number%20of%20Riders%20for%20Each%20Month%20of%20the%20Year.png)
-
-### 3. Casual Rider vs Member Rider - Ride Duration Each Day of the Week
-
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Average%20Ride%20Duration%20of%20Casual%20%26%20Member%20Riders%20by%20Day%20of%20the%20Week.png)
-
-### 4. Casual Rider vs Member Rider - Ride Duration Each Month of the Year
-
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20Rider%20vs%20Member%20Rider%20-%20Ride%20Duration%20for%20Each%20Month%20of%20the%20Year.png)
-
-### 5. Casual Rider vs Member Rider - Top 6 Start & End Stations
-
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Top%206%20Start%20%26%20End%20Stations%20of%20Casual%20%26%20Member%20Riders.png)
-
-### 6. Casual & Member Riders By Bike Type
-
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Casual%20%26%20Member%20Riders%20by%20Bike%20Type.png)
-
-### 7. Top 6 Most Popular Stations by Bike Type
-
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Top%206%20Most%20Popular%20Stations%20by%20Bike%20Type.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Riders%20Data%20-%20Station%20and%20Bike%20Type.png)
 
 ## Insights
 
