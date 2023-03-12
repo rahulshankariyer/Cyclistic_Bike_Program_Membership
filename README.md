@@ -6,7 +6,7 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 ## Data Used
 
-<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> This is the Original Bike Trip Data. It contains data of bike rides from the year 2013, the year of Cyclistic's founding, till the most recently concluded month. </a>The data chosen for this analysis was for the calendar year 2021.
+<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> The data used is the original Bike Trip Data since its founding in 2013. </a>The data chosen for this analysis was for the calendar year 2021.
 
 ## Tools Used
 
@@ -57,13 +57,13 @@ The below visualizations were generated:
 
 ## Insights
 
-1. Casual riders on an average, ride longer than member riders
-2. The number of casual riders increased during the weekend while the number of member riders decreased during the weekend
+1. Casual riders on an average, ride longer than member riders.
+2. The number of casual riders increased during the weekend while the number of member riders decreased during the weekend.
 3. The top 6 stations for the member riders are clearly in downtown Chicago while the top 6 stations for the casual riders are closer to the tourist/leisure spots.
-4. The first three findings together indicate that members are generally commuters, while casual riders generally ride for leisure
-5. Number of riders reached its peak during the summer, especially July and August, and tapered off during winter for both member and casual riders
-6. From the data of a previous year (2019), there is a negligible number of members below the age of 16
-7. There is a negligible difference between the preferences of member and casual riders in the bike type category.
+4. The first three findings together indicate that members are generally commuters, while casual riders generally ride for leisure.
+5. Number of riders reached its peak during the summer, especially July and August, and tapered off during winter for both member and casual riders. 
+6. There is no data regarding the age of Members for 2021. From the data of a previous year (2019), there is a negligible number of members below the age of 16.
+7. There is no significant difference between the preferences of member and casual riders in the bike type category.
 8. In 13% of the rides, the riders neglected to return the bike to any station.
 
 ## Recommendations (Data Based)
@@ -75,13 +75,13 @@ The below visualizations were generated:
     (ii) Summer membership (May-October)
     
     (iii) Weekend-Summer hybrid membership (Saturdays & Sundays and all of July & August)
-2. Approach the Corporations and local businesses to enroll their employees and offer group discounts, thus increasing membership
+2. Approach the Corporations and local businesses to enroll their employees and offer group discounts, thus increasing membership.
 3. Initiate a program to attract riders 16 years and below
 4. Based on frequency, make sure all stations are stocked with appropriate numbers and type of bikes.
 
 ## Recommendations (General, not necessarily Data Based)
 
-1. Have a business tie up with a bank to finance annual memberships
+1. Have a business tie-up with a bank to finance annual memberships
 2. Develop an App for only members with 
     - bike availability information at each station
     - bike reservation valid for 30 mins. 
