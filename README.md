@@ -1,8 +1,10 @@
-# Google Data Analytics Professional Certificate Case Study - Bike Sharing Data from Cyclistic, Chicago
+# Bike Sharing Data Analysis for Cyclistic, Chicago
+
+-<i>Google Data Analytics Professional Certificate Case Study</i>
 
 ## Scenario
 
-I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. They have Member riders, who have an annual membership with Cyclistic and Casual riders, who buy single day or single ride passes to utilize the service. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the team wants to understand how Casual riders and Members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert casual riders into members. But first, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. They have Member riders, who have an annual membership with Cyclistic and Casual riders, who buy single day or single ride passes to utilize the service. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the team wants to understand how Casual riders and Members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert Casual riders into Members. But first, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 ## Data Used
 
@@ -12,8 +14,7 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 1. SQL BigQuery
 2. Tableau 
-3. R Programming
-4. Pivot Tables
+3. Excel
 
 ## Data Transformations
 
@@ -27,13 +28,13 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 The below visualizations were generated:
 
-### 1. Frequency of Riders and Average Ride Duration by Day of the Week and Month
+### 1. Rides and Average Ride Duration <i>(by Day of the Week & Month)</i>
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Riders%20Data%20-%20Ride%20Duration%20and%20Number%20of%20Riders.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Rides%20and%20Average%20Ride%20Duration.png)
 
-### 2. Casual Rider vs Member Rider - Number of Riders Each Month of the Year
+### 2. Most Popular Bike Stations
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Riders%20Data%20-%20Station%20and%20Bike%20Type.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Most%20Popular%20Bike%20Stations.png)
 
 ## Insights
 
@@ -41,7 +42,7 @@ The below visualizations were generated:
 2. The number of casual riders increased during the weekend while the number of member riders decreased during the weekend.
 3. The top 6 stations for the member riders are clearly in downtown Chicago while the top 6 stations for the casual riders are closer to the tourist/leisure spots.
 4. The first three findings together indicate that members are generally commuters, while casual riders generally ride for leisure.
-5. Number of riders reached its peak during the summer, especially July and August, and tapered off during winter for both member and casual riders. 
+5. Number of rides reached its peak during the summer, especially July and August, and tapered off during winter for both member and casual riders. 
 6. There is no data regarding the age of Members for 2021. From the data of a previous year (2019), there is a negligible number of members below the age of 16.
 7. There is no significant difference between the preferences of member and casual riders in the bike type category.
 8. In 13% of the rides, the riders neglected to return the bike to any station.
