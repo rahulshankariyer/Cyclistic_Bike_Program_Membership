@@ -12,9 +12,8 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 ## Tools Used
 
-1. SQL BigQuery
+1. SQL using BigQuery
 2. Tableau 
-3. Excel
 
 ## Data Transformations
 
