@@ -37,11 +37,11 @@ The below visualizations were generated:
 
 ## Insights
 
-1. Casual riders on an average, ride longer than member riders.
-2. The number of casual riders increased during the weekend while the number of member riders decreased during the weekend.
+1. Casual riders on an average, ride twice as long as member riders.
+2. The number of casual riders nearly doubled during the weekend while the number of member riders dropped by roughly 10-20% during the weekend.
 3. The top 6 stations for the member riders are clearly in downtown Chicago while the top 6 stations for the casual riders are closer to the tourist/leisure spots.
 4. The first three findings together indicate that members are generally commuters, while casual riders generally ride for leisure.
-5. Number of rides reached its peak during the summer, especially July and August, and tapered off during winter for both member and casual riders. 
+5. The ratio of the monthly average number of member riders during the summer (June-August) and winter (December-February) was 4:1 while the same ratio for casual riders was 15:1
 6. There is no data regarding the age of Members for 2021. From the data of a previous year (2019), there is a negligible number of members below the age of 16.
 7. There is no significant difference between the preferences of member and casual riders in the bike type category.
 8. In 13% of the rides, the riders neglected to return the bike to any station.
