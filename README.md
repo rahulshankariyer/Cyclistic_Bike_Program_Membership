@@ -35,16 +35,15 @@ The below visualizations were generated:
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Cyclistic_Bike_Program_Membership/main/Data%20Visualization%20through%20R%20and%20Tableau/Most%20Popular%20Bike%20Stations.png)
 
-## Insights
+## Insights 
 
-1. Casual riders on an average, ride twice as long as member riders.
-2. The number of casual riders nearly doubled during the weekend while the number of member riders dropped by roughly 10-20% during the weekend.
-3. The top 6 stations for the member riders are clearly in downtown Chicago while the top 6 stations for the casual riders are closer to the tourist/leisure spots.
-4. The first three findings together indicate that members are generally commuters, while casual riders generally ride for leisure.
-5. The ratio of the monthly average number of member riders during the summer (June-August) and winter (December-February) was 4:1 while the same ratio for casual riders was 15:1
-6. There is no data regarding the age of Members for 2021. From the data of a previous year (2019), there is a negligible number of members below the age of 16.
-7. There is no significant difference between the preferences of member and casual riders in the bike type category.
-8. In 13% of the rides, the riders neglected to return the bike to any station.
+1. On an average, Member riders ride 14 minutes and Casual riders ride 26 minutes, which is nearly twice as long as Member riders.
+2. The number of Casual rides went up by 74.45% during the weekend while the number of Member rides dropped by 10.58% during the weekend.
+3. The top 6 stations for the Member riders are clearly in downtown Chicago while the top 6 stations for the Casual riders are closer to the tourist/leisure spots.
+4. The first three findings together indicate that Members are generally commuters, while Casual riders generally ride for leisure.
+5. Number of rides peaked during the summer, June to September, and was the least during the winter, December to March, for both Members and Casual riders. Member rides wnet up 3.5 times while Casual rides went up 9.1 times in the summer months.
+6. There is no data regarding the age of Members for 2021. From the data of a previous year (2019), there is a negligible number of members below the age of 16. (0.02% among the total riders that year)
+7. In 13% of the rides, the riders neglected to return the bike to any station. Among the riders who didn't return the bikes, there was an almost even split between Member and Casual riders, with slightly more Member riders
 
 ## Recommendations (Data Based)
 
