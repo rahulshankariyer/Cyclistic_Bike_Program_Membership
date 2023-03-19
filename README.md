@@ -37,13 +37,13 @@ The below visualizations were generated:
 
 ## Insights 
 
-1. On an average, Member riders ride 14 minutes and Casual riders ride 26 minutes, which is nearly twice as long as Member riders.
+1. On average, Member riders ride 14 minutes and Casual riders ride 26 minutes, which is nearly twice as long as Member riders.
 2. The number of Casual rides went up by 74.45% during the weekend while the number of Member rides dropped by 10.58% during the weekend.
 3. The top 6 stations for the Member riders are clearly in downtown Chicago while the top 6 stations for the Casual riders are closer to the tourist/leisure spots.
 4. The first three findings together indicate that Members are generally commuters, while Casual riders generally ride for leisure.
 5. Number of rides peaked during the summer, June to September, and was the least during the winter, December to March, for both Members and Casual riders. Member rides went up 3.5 times while Casual rides went up 9.1 times in the summer months.
-6. There is no data regarding the age of Members for 2021. From the data of the previous year (2019), there is a negligible number of members below the age of 16. (0.02% among the total riders that year)
-7. In 13% of the rides, the riders neglected to return the bike to any station. Among the riders who did not return the bikes, there was an almost even split between Member and Casual riders, with slightly more Member riders - 50.% for Member riders & 49.4% Casual riders.
+6. There is no data regarding the age of Members for 2021. From the data of the previous year (2019), there is a negligible number of members below the age of 16 (0.02% among the total riders that year).
+7. In 13% of the rides, the riders neglected to return the bike to any station. Among the riders who did not return the bikes, there was an almost even split between Member and Casual riders, with slightly more Member riders - 50.6% for Member riders & 49.4% Casual riders.
 
 ## Recommendations (Data Based)
 
@@ -55,15 +55,15 @@ The below visualizations were generated:
     
     (iii) Weekend-Summer hybrid membership (Saturdays & Sundays and all of July & August)
 2. Approach the Corporations and local businesses to enroll their employees and offer group discounts, thus increasing membership.
-3. Initiate a program to attract riders 16 years and below
+3. Initiate a program to attract riders 16 years and below.
 4. Based on frequency, make sure all stations are stocked with appropriate numbers and types of bikes.
 
 ## Recommendations (General, not necessarily Data Based)
 
-1. Have a business tie-up with a bank to finance annual memberships
-2. Develop an App for only members with 
+1. Have a business tie-up with a bank to finance annual memberships.
+2. Develop an App for only members with:
     - bike availability information at each station
     - bike reservations valid for 30 mins. 
     - other membership information such as expiry date, number of rides, ride duration, etc. 
    
-   This will enhance membership privileges and may induce some Casual riders to become Members
+   This will enhance membership privileges and may induce some Casual riders to become Members.
